@@ -59,24 +59,30 @@ Habilidade de concentrar-se nos aspectos essenciais de um domínio, ignorando ca
 <h3>🔻 DOMÍNIO:</h3> 
 Domínio da aplicação, também conhecida como camada de negócio ou de objetos de negócio, é aquela onde estão localizadas as classes que fazem parte do domínio do problema, ou seja, classes correspondentes a objetos que fazem parte da descrição do problema.
 
-<h3>🔻 CLASSE: </h3> 
-Um elemento do código que tem a função de representar objetos do mundo real. Dentro dela é comum declararmos atributos e métodos, que representam, respectivamente, as características e comportamentos desse objeto.
+<h3>🔻 CLASSE: </h3>
+Um elemento do código que tem a função de representar objetos do mundo real. Dentro dela é comum declararmos atributos e
+métodos, que representam, respectivamente, as características e comportamentos desse objeto.
 
 <h3>🔻 ATRIBUTO: </h3>
-Atributos são, basicamente, a estrutura de dados que vai representar a classe. Os atributos também são conhecidos como VARIÁVEL DE CLASSE, e podem ser divididos em dois tipos básicos: atributos de instância e de classe. 
+Atributos são, basicamente, a estrutura de dados que vai representar a classe. Os atributos também são conhecidos como
+VARIÁVEL DE CLASSE, e podem ser divididos em dois tipos básicos: atributos de instância e de classe.
 
 <h3>🔻 VARIÁVEL: </h3>
-Uma “região de memória (do computador) previamente identificada cuja finalidade é armazenar os dados ou informações de um programa por um determinado espaço de tempo”.
+Uma “região de memória (do computador) previamente identificada cuja finalidade é armazenar os dados ou informações de
+um programa por um determinado espaço de tempo”.
 
 <h3>🔻 MÉTODO: </h3>
 Os métodos representam os estados e ações dos objetos e classes.
 
 <h3>🔻 OBJETO: </h3>
-Em POO, objeto é um "molde" de uma determinada classe, que passa a existir a partir de uma instância da classe. A classe define o comportamento do objeto, usando atributos (propriedades) e métodos (ações).
-Objeto em ciência da computação, é uma referência a um local da memória que possui um valor. Um objeto pode ser uma variável, função, ou estrutura de dados. 
+Em POO, objeto é um "molde" de uma determinada classe, que passa a existir a partir de uma instância da classe. A classe
+define o comportamento do objeto, usando atributos (propriedades) e métodos (ações). Objeto em ciência da computação, é
+uma referência a um local da memória que possui um valor. Um objeto pode ser uma variável, função, ou estrutura de
+dados.
 
 <h3>🔻 INSTÂNCIA: </h3>
-Uma instância de uma classe é um novo objeto criado dessa classe, com o operador new. Instanciar uma classe é criar um novo objeto do mesmo tipo dessa classe. Uma classe somente poderá ser utilizada após ser instanciada.
+Uma instância de uma classe é um novo objeto criado dessa classe, com o operador new. Instanciar uma classe é criar um
+novo objeto do mesmo tipo dessa classe. Uma classe somente poderá ser utilizada após ser instanciada.
 
 </p>
     
@@ -113,21 +119,27 @@ Linguagens Hibridas: Java, Erlang, Elixir, etc.<br>
 
 <h3> ✨ PARADIGMA DE LINGUAGEM DE PROGRAMAÇÃO</h3> 
 
-É um conjunto de características que podem ser utilizados para categorizar determinado grupo de linguagens. Um paradigma pode oferecer técnicas apropriadas para uma aplicação específica.<br>
+É um conjunto de características que podem ser utilizados para categorizar determinado grupo de linguagens. Um paradigma
+pode oferecer técnicas apropriadas para uma aplicação específica.<br>
 <br>
 <strong>PARADIGMAS PRINCIPAIS e SEUS SUBPARADIGMAS</strong><br>
 
 🔸 <strong>1. Paradigma Imperativo</strong><br>
-Neste paradigma, o programa descreve o processamento necessário para solucionar o problema. Assim, o paradigma imperativo é caracterizado por execução sequencial de instruções, pelo uso de variáveis que representam posições de memória e pelo uso de instruções de atribuição que alteram os valores dessas variáveis.<br>
-Vejamos alguns Subparadigmas do Paradigma Imperativo e exemplos linguagens de programação que adotam esses subparadigmas.<br>
+Neste paradigma, o programa descreve o processamento necessário para solucionar o problema. Assim, o paradigma
+imperativo é caracterizado por execução sequencial de instruções, pelo uso de variáveis que representam posições de
+memória e pelo uso de instruções de atribuição que alteram os valores dessas variáveis.<br>
+Vejamos alguns Subparadigmas do Paradigma Imperativo e exemplos linguagens de programação que adotam esses
+subparadigmas.<br>
 <br>
-🔸  1.1 Paradigma estruturado:  ALGOL 58 e ALGOL 60 <br>
-🔸  1.2 Paradigma concorrente: Java e Ada<br>
-🔸  1.3 Paradigma Orientado a Objetos: Smalltalk e Java<br>
+🔸 1.1 Paradigma estruturado:  ALGOL 58 e ALGOL 60 <br>
+🔸 1.2 Paradigma concorrente: Java e Ada<br>
+🔸 1.3 Paradigma Orientado a Objetos: Smalltalk e Java<br>
 <br>
 🔹 <strong>2. Paradigma Declarativo</strong><br>
-Este paradigma é o modelo no qual os resultados são descritos, mas os passos para chegar aos resultados não são estabelecidos.<br>
-Vejamos alguns Subparadigmas do Paradigma Declarativo e exemplos linguagens de programação que adotam esses subparadigmas:<br>
+Este paradigma é o modelo no qual os resultados são descritos, mas os passos para chegar aos resultados não são
+estabelecidos.<br>
+Vejamos alguns Subparadigmas do Paradigma Declarativo e exemplos linguagens de programação que adotam esses
+subparadigmas:<br>
 <br>
 🔹 2.1 Paradigma Funcional: Lisp e Haskell<br>
 🔹 2.2 Paradigma Lógico: Prolog<br>
